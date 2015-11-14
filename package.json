@@ -1,0 +1,27 @@
+{
+  "name": "xkcli",
+  "version": "1.0.0",
+  "description": "A CLI for downloading XKCD images",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyber1z0r/xkcli.git"
+  },
+  "keywords": [
+    "cli",
+    "xkcd",
+    "xkcli",
+    "comic",
+    "programmerhumor",
+    "reddit"
+  ],
+  "author": "Jakob Gaard Andersen <jakobsky@live.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyber1z0r/xkcli/issues"
+  },
+  "homepage": "https://github.com/hyber1z0r/xkcli#readme"
+}
