@@ -1,9 +1,10 @@
 {
   "name": "xkcli",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A CLI for downloading XKCD images",
   "main": "main.js",
   "scripts": {
+    "start": "node main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,5 +24,11 @@
   "bugs": {
     "url": "https://github.com/hyber1z0r/xkcli/issues"
   },
-  "homepage": "https://github.com/hyber1z0r/xkcli#readme"
+  "homepage": "https://github.com/hyber1z0r/xkcli#readme",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "commander": "^2.9.0",
+    "q": "^1.4.1",
+    "request": "^2.65.0"
+  }
 }
