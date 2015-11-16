@@ -26,7 +26,6 @@
   },
   "homepage": "https://github.com/hyber1z0r/xkcli#readme",
   "dependencies": {
-    "cheerio": "^0.19.0",
     "commander": "^2.9.0",
     "q": "^1.4.1",
     "request": "^2.65.0"
